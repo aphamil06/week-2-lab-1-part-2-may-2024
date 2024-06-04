@@ -1,0 +1,12 @@
+body {background-color: blue;
+text-align:center;
+font-family:cursive;}
+h1{color:white;Background-color:navy;
+border-radius:20px 20px 20px 20px;
+margin: 100px 500px 100px 500px;}
+p{color:white;background-color:navy;
+    border-radius:10px 10px 10px 10px;
+    margin:100px 500px 100px 500px;}
+h2{color:white;
+border-radius: 15px 15px 15px 15px;}
+img {border-radius: 200px 200px 200px 200px}
